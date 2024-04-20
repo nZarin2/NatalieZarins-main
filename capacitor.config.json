@@ -1,5 +1,8 @@
 {
   "appId": "com.NatalieZarins.app",
   "appName": "npm cap sync",
-  "webDir": "build"
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https"
+  }
 }
