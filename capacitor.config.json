@@ -1,5 +1,5 @@
 {
   "appId": "com.NatalieZarins.app",
   "appName": "npm cap sync",
-  "webDir": "dist"
+  "webDir": "build"
 }
